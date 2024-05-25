@@ -1,26 +1,24 @@
 ---
-title: "Astro Nano"
-description: "Minimal portfolio and blog build with astro and no frameworks."
-date: "Mar 26 2024"
-demoURL: "https://astro-nano-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-nano"
+title: "Development Setup Handbook"
+description: "General handbook for software engineers for day-to-day reference"
+date: "Dec 05 2022"
+demoURL: "https://learn-with-me.github.io/Development-Setup-Handbook/"
+repoURL: "https://github.com/learn-with-me/Development-Setup-Handbook"
 ---
 
-![Astro Nano](/astro-nano.png)
+![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 
-Built with Astro, Tailwind and Typescript, an no frameworks.
-
-It was designed as an even more minimal theme than my popular theme [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
+It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
 
 ## 🚀 Deploy your own
 
 <div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-nano">
+  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere">
     <img src="/deploy_vercel.svg" />
   </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-nano">
+  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere">
     <img src="/deploy_netlify.svg" />
   </a>
 </div>
@@ -28,24 +26,12 @@ It was designed as an even more minimal theme than my popular theme [Astro Spher
 ## 📋 Features
 
 - ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
 
 ## 💯 Lighthouse score
-![Astro Nano Lighthouse Score](/lighthouse.png)
+![Astro Sphere Lighthouse Score](/lighthouse.png)
 
 ## 🕊️ Lightweight
-No frameworks or added bulk
+All pages under 100kb (including fonts)
 
 ## ⚡︎ Fast
 Rendered in ~40ms on localhost
@@ -64,11 +50,9 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 | :------------------------ | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run dev:network`     | Starts local dev server on local network         |
 | `npm run sync`            | Generates TypeScript types for all Astro modules.|
 | `npm run build`           | Build your production site to `./dist/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run preview:network` | Preview build on local network                   |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 | `npm run lint`            | Run ESLint                                       |
