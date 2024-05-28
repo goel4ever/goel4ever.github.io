@@ -10,6 +10,8 @@ This handbook acts as a notebook for documenting software engineering concepts a
 It is not a know-all guide but a starting point for understanding software engineering fundamentals, in my own language.
 The purpose of this notebook is for me to refer back to the concepts and best practices that I've learned over time.
 
+![Notebook](https://github.com/goel4ever/goel4ever.github.io/assets/5758132/fabab1a3-82ca-47dd-b378-645ff40d7110)
+
 Most of the content is based on my experience and learning from various sources, while some may be gpt-generated just to kick off a section for now.
 The notes are by no means perfect or up to date. I've been updating on-need basis.
 
