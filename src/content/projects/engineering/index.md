@@ -6,42 +6,22 @@ demoURL: "https://learn-with-me.github.io/Software-Engineering-Fundamentals/"
 repoURL: "https://github.com/learn-with-me/Software-Engineering-Fundamentals"
 ---
 
-![Astro Nano](/astro-nano.png)
+This handbook acts as a notebook for documenting software engineering concepts and best practices.
+It is not a know-all guide but a starting point for understanding software engineering fundamentals, in my own language.
+The purpose of this notebook is for me to refer back to the concepts and best practices that I've learned over time.
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+Most of the content is based on my experience and learning from various sources, while some may be gpt-generated just to kick off a section for now.
+The notes are by no means perfect or up to date. I've been updating on-need basis.
 
-Built with Astro, Tailwind and Typescript, an no frameworks.
+Feel free to contribute or use the contents as needed. Also star(`*`) the repository to receive updates.
 
-It was designed as an even more minimal theme than my popular theme [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
+## 📋 Core sections
 
-## 🚀 Deploy your own
-
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-nano">
-    <img src="/deploy_vercel.svg" />
-  </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-nano">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
-
-## 📋 Features
-
-- ✅ 100/100 Lighthouse performance
-
-## 💯 Lighthouse score
-![Astro Nano Lighthouse Score](/lighthouse.png)
-
-## 🕊️ Lightweight
-No frameworks or added bulk
-
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
-
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
-## 🏛️ License
-
-MIT
+- Authentication
+- Communication
+- Data engineering
+- Databases
+- Kafka
+- Machine learning
+- Message Queue
+- System design fundamentals
