@@ -24,8 +24,8 @@ importers:
         specifier: ^5.1.1
         version: 5.1.1(astro@4.12.2(typescript@5.5.4))(tailwindcss@3.4.4)
       '@fontsource/inter':
-        specifier: ^5.0.17
-        version: 5.0.18
+        specifier: ^5.1.0
+        version: 5.1.0
       '@fontsource/lora':
         specifier: ^5.0.16
         version: 5.0.17
@@ -407,8 +407,8 @@ packages:
     resolution: {integrity: sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
 
-  '@fontsource/inter@5.0.18':
-    resolution: {integrity: sha512-YCsoYPTcs713sI7tLtxaPrIhXAXvEetGg5Ry02ivA8qUOb3fQHojbK/X9HLD5OOKvFUNR2Ynkwb1kR1hVKQHpw==}
+  '@fontsource/inter@5.1.0':
+    resolution: {integrity: sha512-zKZR3kf1G0noIes1frLfOHP5EXVVm0M7sV/l9f/AaYf+M/DId35FO4LkigWjqWYjTJZGgplhdv4cB+ssvCqr5A==}
 
   '@fontsource/lora@5.0.17':
     resolution: {integrity: sha512-+mySGaReOJ9MqnchYKs2eAd2cVg+fbaZ+rIGUm29V0AjPfi0gfT+e5NaXaAAorRN1HdJOfWPwX1XUws7t/iokQ==}
@@ -1349,6 +1349,7 @@ packages:
   eslint@8.57.0:
     resolution: {integrity: sha512-dZ6+mexnaTIbSBZWgou51U6OmzIhYM2VcNdtiTtI7qPNZm35Akpr0f6vtw3w1Kmn5PYo+tZVfh13WrhpS6oLqQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
 
   espree@10.0.1:
@@ -3480,7 +3481,7 @@ snapshots:
 
   '@eslint/js@8.57.0': {}
 
-  '@fontsource/inter@5.0.18': {}
+  '@fontsource/inter@5.1.0': {}
 
   '@fontsource/lora@5.0.17': {}
 
