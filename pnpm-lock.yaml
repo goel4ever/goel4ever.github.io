@@ -27,8 +27,8 @@ importers:
         specifier: ^5.1.1
         version: 5.1.1
       '@fontsource/lora':
-        specifier: ^5.0.16
-        version: 5.0.17
+        specifier: ^5.2.7
+        version: 5.2.7
       '@tailwindcss/typography':
         specifier: ^0.5.15
         version: 0.5.15(tailwindcss@3.4.17)
@@ -409,8 +409,8 @@ packages:
   '@fontsource/inter@5.1.1':
     resolution: {integrity: sha512-weN3E+rq0Xb3Z93VHJ+Rc7WOQX9ETJPTAJ+gDcaMHtjft67L58sfS65rAjC5tZUXQ2FdZ/V1/sSzCwZ6v05kJw==}
 
-  '@fontsource/lora@5.0.17':
-    resolution: {integrity: sha512-+mySGaReOJ9MqnchYKs2eAd2cVg+fbaZ+rIGUm29V0AjPfi0gfT+e5NaXaAAorRN1HdJOfWPwX1XUws7t/iokQ==}
+  '@fontsource/lora@5.2.7':
+    resolution: {integrity: sha512-LmzDiF4ReBFG1uetXScoUv7qae9fQ5TNTZs9TzBqy+SBu9+5G0xchXEEAtaljJH7B1asbjUtg9tuPfinCNnGOQ==}
 
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
@@ -3535,7 +3535,7 @@ snapshots:
 
   '@fontsource/inter@5.1.1': {}
 
-  '@fontsource/lora@5.0.17': {}
+  '@fontsource/lora@5.2.7': {}
 
   '@humanwhocodes/config-array@0.11.14':
     dependencies:
